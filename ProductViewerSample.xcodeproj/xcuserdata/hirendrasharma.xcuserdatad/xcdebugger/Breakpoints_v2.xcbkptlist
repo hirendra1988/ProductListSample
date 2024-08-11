@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D19B44F3-5240-404E-ABF5-00A111E7A0AE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B585F08C-3E72-43D2-9CC7-7A05F9D99EFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductViewerSample/CommonViews/BottomButtonView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "layoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E63329-87DF-4591-9F3F-06B65CABA358"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "testSnapshotApplication()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34E63329-87DF-4591-9F3F-06B65CABA358 - 2fc9a422c1fa6c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductViewerSampleTests.ProductsViewControllerTests.testSnapshotApplication() -&gt; ()"
+                  moduleName = "ProductViewerSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Desktop/ProductViewerSample/ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "2432">
+               </Location>
+               <Location
+                  uuid = "34E63329-87DF-4591-9F3F-06B65CABA358 - 2fc9a422c1fa6c53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductViewerSampleTests.ProductsViewControllerTests.testSnapshotApplication() -&gt; ()"
+                  moduleName = "ProductViewerSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Desktop/ProductViewerSample/ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5565CA32-4772-45BF-984C-4B01EF0D9283"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "testSnapshotApplication()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5565CA32-4772-45BF-984C-4B01EF0D9283 - 2fc9a422c1fa6c15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductViewerSampleTests.ProductsViewControllerTests.testSnapshotApplication() -&gt; ()"
+                  moduleName = "ProductViewerSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Desktop/ProductViewerSample/ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "2156">
+               </Location>
+               <Location
+                  uuid = "5565CA32-4772-45BF-984C-4B01EF0D9283 - 2fc9a422c1fa6c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProductViewerSampleTests.ProductsViewControllerTests.testSnapshotApplication() -&gt; ()"
+                  moduleName = "ProductViewerSampleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hirendrasharma/Desktop/ProductViewerSample/ProductViewerSample/Tests/ProductsViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "2156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
